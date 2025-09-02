@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local state (GitHub Actions will commit state/last_id.txt)
+state/*.db
+.env
